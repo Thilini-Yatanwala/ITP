@@ -18,6 +18,7 @@ public class SampleProject {
         // TODO code application logic here
         
         System.out.println("Welcome to Git/Github lab! I have changed here");
+         System.out.println(" Thyalk WEB Change -------------------Welcome to Git/Github lab! I have changed here");
     }
     
 }
